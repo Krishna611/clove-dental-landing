@@ -6,7 +6,7 @@ This is a responsive landing page for **Clove Dental**, showcasing painless root
 
 ## 🚀 Live Demo
 
-👉 [View Live Website](https://yourusername.github.io/clove-dental-landing)
+👉 [View Live Website](https://krishna611.github.io/clove-dental-landing/)
 
 _Replace `yourusername` with your actual GitHub username._
 
