@@ -18,7 +18,6 @@ clove-dental-landing/
 ├── index.html # Main HTML structure
 ├── style.css # Custom styles
 ├── script.js # JavaScript for interactivity (e.g., FAQ expand/collapse)
-├── images/ # Images used in the project
 └── README.md # Project documentation
 
 yaml
